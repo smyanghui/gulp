@@ -1,13 +1,13 @@
 {
-  "name": "mygulp",
-  "version": "1.0.0",
+  "name": "single-page",
+  "version": "1.0.1",
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "dev": "gulp dev",
     "build": "rimraf dist && gulp build"
   },
-  "author": "yh",
+  "author": "smyanghui@sina.com",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.0",
